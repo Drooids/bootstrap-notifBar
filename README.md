@@ -1,0 +1,13 @@
+# Bootstrap-notifBar
+
+## Description
+More goes here...
+
+## Examples
+More ...
+
+## Usage
+More ...
+
+## Dependencies
+More ...
